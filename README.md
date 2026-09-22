@@ -1,50 +1,30 @@
+# 👋 Hi, I'm Eric
 
+Front-End Developer building scalable, maintainable web applications for enterprise environments — retail and finance.
 
-# 👋 Hi, I'm Eric!
+I specialize in **Angular** and **TypeScript**, with hands-on experience integrating **Java/Spring Boot** microservices architectures. Alongside client work, I build AI-assisted developer tooling and explore generative/creative coding (TouchDesigner, Blender).
 
-💼 Front-End Developer specialized in building scalable and maintainable web applications.  
-⚡ Focused on Angular, TypeScript and enterprise-level architectures.  
-🏗️ Experience working on complex projects in retail and finance environments.  
+## What I do
 
----
+- Design and ship enterprise-scale Angular alean architecture and long-termmaintainability
+- Integrate frontend with backend microservices (Java, Spring Boot) via REST APIs
+- Optimize performance, UX and code quality
+- Build custom AI workflows and internal tooling (agents, local LLM pipelines, knowledge automation) to speed up my own development process
 
-🚀 About Me
+## Stack
 
-- 🧠 Strong focus on clean code, maintainability and best practices
-- ⚙️ Experience with modern frontend frameworks and microservices architectures
-- 🔗 Comfortable working with REST APIs and backend integration (Java & Spring)
-- 📈 Always improving performance, UX and code quality
+**Frontend** — HTML5 · CSS3 · JavaScript · TypeScript · Angular · React
+**Backend & Data** — Java · Spring Boot · MySQL
+**Other** — Python · Blender · TouchDesigner
 
----
+## Currently exploring
 
- 💻 Technologies
-# Frontend
-![HTML5](./assets/html5.svg) 
-![CSS3](./assets/css3.svg) 
-![JavaScript](./assets/java-script.svg) 
-![TypeScript](./assets/typescript.svg)
-![Angular](./assets/angular.svg)  
-![React](./assets/react.svg)
-
-# Backend & Database
-![Java](./assets/java.svg) 
-![Spring Boot](./assets/springboot.svg) 
-![MySQL](./assets/mysql.svg)
-
-# Other
-![Python](./assets/python.svg) 
-![Blender](./assets/blender.svg)
-
----
-
-## 🧩 What I’m Working On
-
-- 🏢 Enterprise Angular applications
-- 🔄 Integration with microservices (Spring Boot)
-- ⚡ Performance optimization & clean architecture
+- AI-assisted developer workflows (agentic tooling, local LLMs, knowledge automation)
+- Performance and architecture patterns for
+- Generative visuals with TouchDesigner and Blender
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/eric-checuz-582397264/]
+- 💼 [LinkedIn](https://www.linkedin.com/in/eric-checuz-582397264/)
